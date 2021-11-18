@@ -6,7 +6,6 @@ public class Lecture1 {
         Student S2 = new Student();
         System.out.println(S1.name);
         System.out.println(S2.name);
-        System.out.println(findNumberOfPath(10,10));
         Student.PrintAllVal(S1);
         Human bittu = new Human(24,20000,true,"Saikat Bishal");
         Human cittu = new Human(19,5000,false,"Amit Dey");
